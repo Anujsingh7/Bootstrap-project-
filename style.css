@@ -71,7 +71,7 @@
     border-radius: 60px;
 }
 .btn1:hover{
-    background-color: rgb(199, 10, 66) ;
+    background-color: rgba(13, 164, 8, 0.63) ;
     transition: 0.5s;
 }
 .product h1{
